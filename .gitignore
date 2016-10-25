@@ -1,0 +1,9 @@
+.DS_Store
+.settings
+.tmp
+node_modules
+npm-debug.log
+pids
+results
+logs
+lib-cov

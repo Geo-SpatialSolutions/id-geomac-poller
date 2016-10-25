@@ -1,0 +1,16 @@
+{
+  "name": "id-geomac-poller",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryan McAdler",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.75.0",
+    "terraformer": "^1.0.7",
+    "terraformer-arcgis-parser": "^1.0.5"
+  }
+}
