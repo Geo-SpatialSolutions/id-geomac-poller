@@ -9,6 +9,8 @@
   "author": "Ryan McAdler",
   "license": "ISC",
   "dependencies": {
+    "lodash": "^4.16.4",
+    "lomath": "^0.3.0",
     "request": "^2.75.0",
     "terraformer": "^1.0.7",
     "terraformer-arcgis-parser": "^1.0.5"
